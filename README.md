@@ -14,9 +14,9 @@ _i created a wallpaper telegram bot using my favourite python3 language with pyr
 pyrogram docs here >>>> _https://docs.pyrogram.org/_
 
 
+
 **Useful Links**
 [Documentation:]((https://docs.pyrogram.org))
 [Releases: ]((https://docs.pyrogram.org/releases))
 [PyPI: ]((https://pypi.org/project/pyrogram))
 [News: ]((https://t.me/pyrogram))
-Pinned
