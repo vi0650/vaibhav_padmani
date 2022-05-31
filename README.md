@@ -14,4 +14,10 @@ _i created a wallpaper telegram bot using my favourite python3 language with pyr
 pyrogram docs here >>>> _https://docs.pyrogram.org/_
 
 My bot link here >>>> [t.me/WallVisionXBot](url)
-username :- @wallvisionxbot
+username :- [@wallvisionxbot](url)
+
+**Useful Links for pyrogram**
+Documentation: [https://docs.pyrogram.org](url)
+Releases: [https://docs.pyrogram.org/releases](url)
+PyPI: [https://pypi.org/project/pyrogram](url)
+News: [https://t.me/pyrogram](url)
