@@ -7,7 +7,7 @@
 -    Here Are the links to check it out ---->>>>>
 -    1. **cafe shop -->** [https://vi0650.github.io/Groots-cafe_vi/](url)  **Using Angular and Firebase...**
      2. **Online Shopping website -->** [https://best-buy-04.vercel.app/](url) **Using React , MongoDb and Nodejs...**
-     3. **Portfolio -->** [_____](url) under construction...**
+     3. **Portfolio -->** [https://vi0650.github.io/Vaibhav-Padmani/](url) under construction...**
 
 <!---
 vi0650/vi0650 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
