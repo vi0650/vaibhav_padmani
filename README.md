@@ -14,16 +14,4 @@ vi0650/vi0650 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <a href="https://app.daily.dev/vaibhavpadmani"><img src="https://api.daily.dev/devcards/v2/icX50cWL9N25D5Ox8O3ut.png?type=default&r=8g2" width="356" alt="vaibhav padmani's Dev Card"/></a>
-https://github-profile-trophy.vercel.app/?username=vi0650&theme=gruvbox
-
-_i created a wallpaper telegram bot using python3 language with pyrogram library_** Pyrogram — version 2.0 ** 
-pyrogram docs here >>>> _https://docs.pyrogram.org/_
-
-My bot link here >>>> [t.me/WallVisionXBot](url)
-username :- [@wallvisionxbot](url)
-
-**Useful Links for pyrogram**
-Documentation: [https://docs.pyrogram.org](url)
-Releases: [https://docs.pyrogram.org/releases](url)
-PyPI: [https://pypi.org/project/pyrogram](url)
-News: [https://t.me/pyrogram](url)
+<br>https://github-profile-trophy.vercel.app/?username=vi0650&theme=gruvbox
