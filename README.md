@@ -13,5 +13,5 @@
 vi0650/vi0650 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/vaibhavpadmani"><img src="https://api.daily.dev/devcards/v2/icX50cWL9N25D5Ox8O3ut.png?type=default&r=8g2" width="356" alt="vaibhav padmani's Dev Card"/></a>
+<a href="https://app.daily.dev/vaibhavpadmani"><img src="https://api.daily.dev/devcards/v2/icX50cWL9N25D5Ox8O3ut.png?type=wide&r=b6c" width="652" alt="vaibhav padmani's Dev Card"/></a>
 <br>https://github-profile-trophy.vercel.app/?username=vi0650&theme=gruvbox
