@@ -13,7 +13,7 @@
 vi0650/vi0650 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<a href="https://app.daily.dev/vaibhavpadmani"><img src="https://api.daily.dev/devcards/v2/icX50cWL9N25D5Ox8O3ut.png?type=default&r=8g2" width="356" alt="vaibhav padmani's Dev Card"/></a>
 https://github-profile-trophy.vercel.app/?username=vi0650&theme=gruvbox
 
 _i created a wallpaper telegram bot using python3 language with pyrogram library_** Pyrogram — version 2.0 ** 
