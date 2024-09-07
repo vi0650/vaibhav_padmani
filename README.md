@@ -8,6 +8,6 @@
 -    Here Are the links to check it out ---->>>>>
 -    1. **cafe shop -->** [https://github.com/vi0650/Groots-cafe_vi](url)  **Using Angular and Firebase...**
      2. **Online Shopping website -->** [https://github.com/vi0650/Ecommerce-website_BestBuy](url) **Using React , MongoDb and Nodejs...**
-     3. **Portfolio -->** [https://vi0650.github.io/](url) 🧐**
+     3. **Portfolio -->** [**Vaibhav Padmani**](https://vi0650.github.io/) 🧐**
         
 <br>https://github-profile-trophy.vercel.app/?username=vi0650&theme=gruvbox
