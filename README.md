@@ -9,5 +9,3 @@
 -    1. **cafe shop -->** [**Groot's Cafe**](https://vi-cafe-b963a.web.app/)  **Using Angular and Firebase...**
      2. **Online Shopping website -->** [**Best Buy**](https://best-buy-004-ar7yc3vvt-vi0650.vercel.app/) **Using React , MongoDb and Nodejs...**
      3. **Portfolio -->** [**Vaibhav Padmani**](https://vi0650.github.io/) 🧐**
-        
-<br>https://github-profile-trophy.vercel.app/?username=vi0650&theme=gruvbox
